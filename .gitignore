@@ -15,3 +15,4 @@ Thumbs.db
 #ignore .vscode 
 .vscode
 .mvn
+src/test
